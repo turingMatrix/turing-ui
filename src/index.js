@@ -88,8 +88,10 @@ import Empty from '../packages/empty/index.js';
 import Descriptions from '../packages/descriptions/index.js';
 import DescriptionsItem from '../packages/descriptions-item/index.js';
 import Result from '../packages/result/index.js';
-import locale from 'element-ui/src/locale';
-import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
+import TuringRow from '../packages/turing-row/index.js';
+import TuringCol from '../packages/turing-col/index.js';
+import locale from 'turing-ui/src/locale';
+import CollapseTransition from 'turing-ui/src/transitions/collapse-transition';
 
 const components = [
   Pagination,
@@ -175,6 +177,8 @@ const components = [
   Descriptions,
   DescriptionsItem,
   Result,
+  TuringRow,
+  TuringCol,
   CollapseTransition
 ];
 
@@ -302,5 +306,7 @@ export default {
   Empty,
   Descriptions,
   DescriptionsItem,
-  Result
+  Result,
+  TuringRow,
+  TuringCol
 };

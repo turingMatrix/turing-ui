@@ -52,7 +52,7 @@ Se puede personalizar Popconfirm así:
 ### Slot
 | Nombre | Descripción |
 |--- | ---|
-| reference | Elemento HTML que activa el Popconfirm |
+| reference | TuringUIo HTML que activa el Popconfirm |
 
 ### Eventos
 | Nombre Evento | Descripción | Parámetros |

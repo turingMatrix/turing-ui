@@ -183,4 +183,4 @@ Cuando sólo hay una página, oculte la paginación configurando el atributo `hi
 ### Slot
 | Nombre | Descripción                              |
 | ------ | ---------------------------------------- |
-| —      | Elemento propio. Para utilizar esto necesitas declarar `slot` en el `layout` |
+| —      | TuringUIo propio. Para utilizar esto necesitas declarar `slot` en el `layout` |

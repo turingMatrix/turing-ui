@@ -1,8 +1,8 @@
 import Vue from 'vue';
 import Main from './main.vue';
-import merge from 'element-ui/src/utils/merge';
-import { PopupManager } from 'element-ui/src/utils/popup';
-import { isVNode } from 'element-ui/src/utils/vdom';
+import merge from 'turing-ui/src/utils/merge';
+import { PopupManager } from 'turing-ui/src/utils/popup';
+import { isVNode } from 'turing-ui/src/utils/vdom';
 const NotificationConstructor = Vue.extend(Main);
 
 let instance;

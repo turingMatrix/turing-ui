@@ -1,4 +1,4 @@
-export * from './element-ui'
+export * from './turing-ui'
 
-import * as ElementUI from './element-ui'
+import * as ElementUI from './turing-ui'
 export default ElementUI

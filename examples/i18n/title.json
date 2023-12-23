@@ -1,26 +1,26 @@
 {
   "zh-CN": {
-    "home": "Element - 网站快速成型工具",
-    "guide": "指南 | Element",
-    "component": "组件 | Element",
-    "resource": "资源 | Element"
+    "home": "Turing - 网站快速成型工具",
+    "guide": "指南 | TuringUI",
+    "component": "组件 | TuringUI",
+    "resource": "资源 | TuringUI"
   },
   "en-US": {
-    "home": "Element - A Desktop UI Toolkit for Web",
-    "guide": "Guide | Element",
-    "component": "Component | Element",
-    "resource": "Resource | Element"
+    "home": "Turing - A Desktop UI Toolkit for Web",
+    "guide": "Guide | TuringUI",
+    "component": "Component | TuringUI",
+    "resource": "Resource | TuringUI"
   },
   "es": {
-    "home": "Element - Un kit de interfaz de usuario para la web",
-    "guide": "Guía | Element",
-    "component": "Componentes | Element",
-    "resource": "Recursos | Element"
+    "home": "Turing - Un kit de interfaz de usuario para la web",
+    "guide": "Guía | TuringUI",
+    "component": "Componentes | TuringUI",
+    "resource": "Recursos | TuringUI"
   },
   "fr-FR": {
-    "home": "Element - Un kit de composants d'interface pour le web",
-    "guide": "Guide | Element",
-    "component": "Composants | Element",
-    "resource": "Ressources | Element"
+    "home": "Turing - Un kit de composants d'interface pour le web",
+    "guide": "Guide | TuringUI",
+    "component": "Composants | TuringUI",
+    "resource": "Ressources | TuringUI"
   }
 }
