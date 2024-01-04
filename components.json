@@ -86,9 +86,6 @@
   "empty": "./packages/empty/index.js",
   "descriptions": "./packages/descriptions/index.js",
   "descriptions-item": "./packages/descriptions-item/index.js",
-  "result": "./packages/result/index.js",
-
-  "turing-row": "./packages/turing-row/index.js",
-  "turing-col": "./packages/turing-col/index.js"
+  "result": "./packages/result/index.js"
 
 }
